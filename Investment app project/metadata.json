@@ -1,0 +1,5 @@
+{
+  "name": "InvestoPort - Portfolio Dashboard",
+  "description": "A comprehensive stock portfolio tracking application with real-time calculations, performance charts, and persistent storage for Indonesian stocks.",
+  "requestFramePermissions": []
+}
